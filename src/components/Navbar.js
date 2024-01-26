@@ -20,13 +20,11 @@ const Navbar = () => {
         {user && (
           <div>
             {('user' in user && 'login' in user.user) ? (
-              // Render content for the signup case
               <>
                 <span>{user.user.login}</span>
                 <button onClick={handleClick}>Log out</button>
               </>
             ) : (
-              // Render content for the login case
               <>
                 <span>{user.login}</span>
                 <button onClick={handleClick}>Log out</button>
