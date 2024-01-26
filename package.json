@@ -1,5 +1,4 @@
 {
-  "homepage":"https://AH-bi.github.io/ahmed_binous_fe",
   "proxy": "https://ahmedb01.pythonanywhere.com:443/",
   "name": "frontend",
   "version": "0.1.0",
