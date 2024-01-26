@@ -40,3 +40,8 @@ If you want to use your own backend API, modify the proxy configuration in the `
 
 ```json
 "proxy": "https://your-backend-api-ip/"
+
+## Hosting Information
+
+This frontend is hosted on Netlify. The deployed URL can be found in the `url.txt`` file.
+
