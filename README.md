@@ -40,6 +40,7 @@ If you want to use your own backend API, modify the proxy configuration in the `
 
 ```json
 "proxy": "https://your-backend-api-ip/"
+``
 
 ## Hosting Information
 
