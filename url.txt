@@ -1,3 +1,3 @@
 backend (flask+mysql): ahmedb01.pythonanywhere.com
 
-frontend (react): 
+frontend (react): https://main--unique-alpaca-6c1f4d.netlify.app/
