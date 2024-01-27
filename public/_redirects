@@ -1,1 +1,7 @@
+# Redirect /login and /signup to the external API
+/login https://ahmedb01.pythonanywhere.com:443/checkuser 200
+/signup https://ahmedb01.pythonanywhere.com:443/adduser 200
+
+# All other requests are redirected to index.html
 /* /index.html 200
+
